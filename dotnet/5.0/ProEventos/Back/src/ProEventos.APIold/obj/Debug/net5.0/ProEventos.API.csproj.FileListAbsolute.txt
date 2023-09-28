@@ -1,0 +1,7 @@
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+H:\dev\clickwebTech\dotnet\5.0\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache

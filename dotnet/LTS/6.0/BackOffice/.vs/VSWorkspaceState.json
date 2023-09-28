@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Back",
+    "\\Back\\src",
+    "\\Back\\src\\BackOffice.API",
+    "\\Back\\src\\BackOffice.API\\Database",
+    "\\Back\\src\\BackOffice.API\\Database\\EntityFramework",
+    "\\Back\\src\\BackOffice.API\\Database\\EntityFramework\\Context",
+    "\\Back\\src\\BackOffice.API\\Database\\EntityFramework\\Migrations",
+    "\\Back\\src\\BackOffice.API\\Models",
+    "\\Front"
+  ],
+  "SelectedNode": "\\Back\\src\\BackOffice.API\\Database\\EntityFramework\\Migrations",
+  "PreviewInSolutionExplorer": false
+}

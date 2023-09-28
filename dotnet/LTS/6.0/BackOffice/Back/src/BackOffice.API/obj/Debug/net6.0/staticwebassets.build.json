@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nTkoFMD6HyEnF0fuKoSS/65WxvDAKgy0//oQHWtg+mc=",
+  "Source": "BackOffice.API",
+  "BasePath": "_content/BackOffice.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

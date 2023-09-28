@@ -1,0 +1,45 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Postgres16",
+            "group": "Postgres",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "li310598"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3308,
+            "driver": "MySQL",
+            "name": "mysql80",
+            "group": "mySQL",
+            "username": "root",
+            "password": "mspmysql1601",
+            "database": "baxckoffice"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3307,
+            "driver": "MySQL",
+            "name": "mysql5740",
+            "group": "mySQL",
+            "database": "servicedesk",
+            "username": "root",
+            "password": "mspmysql1601"
+        }
+    ]
+}
