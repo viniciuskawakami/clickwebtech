@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\dotnet",
+    "\\dotnet\\lts",
+    "\\dotnet\\lts\\6.0",
+    "\\dotnet\\lts\\6.0\\aspnetcore",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\Data",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\Data\\ORM",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\Data\\ORM\\EntityFramework",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\Data\\ORM\\EntityFramework\\Context",
+    "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\Models"
+  ],
+  "SelectedNode": "\\dotnet\\lts\\6.0\\aspnetcore\\MySQL\\MySQL\\MySQL.csproj",
+  "PreviewInSolutionExplorer": false
+}
