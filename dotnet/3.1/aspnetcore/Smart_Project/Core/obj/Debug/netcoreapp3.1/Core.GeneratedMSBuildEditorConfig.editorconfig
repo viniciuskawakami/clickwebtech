@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Core
+build_property.ProjectDir = H:\dev\repos\clickwebTech\dotnet\3.1\aspnetcore\Smart_Project\Core\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
