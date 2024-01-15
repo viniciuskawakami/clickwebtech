@@ -24,14 +24,8 @@ H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.csproj.CoreCompileInputs.cache
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.MvcApplicationPartsAssemblyInfo.cs
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.MvcApplicationPartsAssemblyInfo.cache
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.sourcelink.json
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets.build.json
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets.development.json
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets\msbuild.netcore6MySql.Microsoft.AspNetCore.StaticWebAssets.props
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets\msbuild.build.netcore6MySql.props
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.netcore6MySql.props
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.netcore6MySql.props
-H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\staticwebassets.pack.json
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\scopedcss\bundle\netcore6MySql.styles.css
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.csproj.CopyComplete
 H:\dev\repos\clickwebTech\dotnet\lts\6.0\aspnetcore\MySql\netcore6MySql\netcore6MySql\obj\Debug\net6.0\netcore6MySql.dll

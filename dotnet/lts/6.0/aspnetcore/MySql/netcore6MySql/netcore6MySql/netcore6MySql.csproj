@@ -28,6 +28,7 @@
     <Folder Include="04.InfraStructure\Data\ORM\EntityFramework\Migrations\" />
     <Folder Include="01.Services\" />
     <Folder Include="02.Application\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
