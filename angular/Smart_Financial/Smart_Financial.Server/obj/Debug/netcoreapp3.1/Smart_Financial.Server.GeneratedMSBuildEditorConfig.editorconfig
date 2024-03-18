@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Smart_Financial.Server
+build_property.ProjectDir = H:\dev\clickwebTech\angular\Smart_Financial\Smart_Financial.Server\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

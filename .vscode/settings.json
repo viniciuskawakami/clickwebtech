@@ -40,6 +40,21 @@
             "database": "servicedesk",
             "username": "root",
             "password": "mspmysql1601"
+        },
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MSSQL",
+            "name": "mssqlserver",
+            "group": "docker",
+            "username": "sa",
+            "database": "master"
         }
     ]
 }

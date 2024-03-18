@@ -1,7 +1,0 @@
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.csproj.AssemblyReference.cache
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.GeneratedMSBuildEditorConfig.editorconfig
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.AssemblyInfoInputs.cache
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.AssemblyInfo.cs
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.csproj.CoreCompileInputs.cache
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.MvcApplicationPartsAssemblyInfo.cs
-H:\dev\clickwebTech\dotnet\mysqlWebAPI\mysql\obj\Debug\net7.0\mysql.MvcApplicationPartsAssemblyInfo.cache

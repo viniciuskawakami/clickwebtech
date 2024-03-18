@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "H:\\dev\\clickwebTech\\angular\\Smart_Financial\\Smart_Financial.Server\\..\\smart_financial.client",
+"MaxTimeoutInSeconds": "120"
+}
+}
